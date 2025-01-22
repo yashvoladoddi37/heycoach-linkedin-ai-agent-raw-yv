@@ -1,4 +1,4 @@
-# HeyCoach LinkedIn AI Agent
+# HeyCoach LinkedIn AI Agent (YV)
 
 ## Overview
 This repository contains a set of Python scripts for automating LinkedIn lead generation and outreach. The system consists of three main pipelines that work together to:
@@ -218,3 +218,5 @@ This repository contains a set of Python scripts for automating LinkedIn lead ge
 3. Commit changes
 4. Submit pull request
 
+## Author
+This project has been possible by the help of linkedin-api and staffspy.
