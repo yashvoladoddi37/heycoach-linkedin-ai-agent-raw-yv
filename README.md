@@ -29,8 +29,9 @@ This repository contains a set of Python scripts for automating LinkedIn lead ge
 - **DO NOT** use your personal LinkedIn account
 - Premium account recommended for better results
 - Account must have:
+  - Verified status
   - Professional profile picture
-  - Completed profile information
+  - Completed most of the profile information
   - Some existing connections (50+)
   - Active for at least 1 month
 
